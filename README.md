@@ -1,7 +1,7 @@
 <h1 align="center">
   <img src="http://www.essentialsql.com/wp-content/uploads/2014/05/SqlIte-Feather.jpg" alt="SQLite3">
   <br />
-  [SQLite3]
+  SQLite3
 </h1>
 
 <p align="center"><b>This is the snap for SQLite3</b>, <i>"SQLite is an in-process library that implements a self-contained, serverless, zero-configuration, transactional SQL database engine"</i>. It works on Ubuntu, Fedora, Debian, and other major Linux
@@ -63,9 +63,9 @@ If you have any questions, [post in the Snapcraft forum](https://forum.snapcraft
 
 ## The Snapcrafters
 
-| [![Your Name](http://gravatar.com/avatar/bc0bced65e963eb5c3a16cab8b004431/?s=128)](https://github.com/yourname/) |
+| [![Your Name](http://gravatar.com/avatar/bc0bced65e963eb5c3a16cab8b004431/?s=128)](https://github.com/nv-gabor/) |
 | :---: |
-| [Your Name](https://github.com/yourname/) |
+| nv-gabor (https://github.com/nv-gabor/) |
 
 <!-- Uncomment and modify this when you have upstream contacts
 ## Upstream
