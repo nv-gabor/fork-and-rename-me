@@ -1,6 +1,6 @@
 name: sqlite3
 version: '3.20.0' 
-summary: SQLite is an in-process library that implements a self-contained, serverless, zero-configuration, transactional SQL database engine
+summary: Library implementing a self-contained, serverless, transactional database
 description: |
   SQLite is an embedded SQL database engine. Unlike most other SQL databases, SQLite does not have a separate server process. SQLite reads 
   and writes directly to ordinary disk files. A complete SQL database with multiple tables, indices, triggers, and views, is contained 
@@ -14,7 +14,6 @@ confinement: devmode
 apps:
   sqlite3:
     command: bin/sqlite3
-    plugs: [network, network-bind]
     
 
 parts:
