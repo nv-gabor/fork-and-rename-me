@@ -1,10 +1,10 @@
 <h1 align="center">
-  <img src="https://avatars1.githubusercontent.com/u/29598503?v=3&s=256" alt="Project">
+  <img src="http://www.essentialsql.com/wp-content/uploads/2014/05/SqlIte-Feather.jpg" alt="SQLite3">
   <br />
-  [Project]
+  [SQLite3]
 </h1>
 
-<p align="center"><b>This is the snap for [Project]</b>, <i>"Single-line elevator pitch for your amazing snap"</i>. It works on Ubuntu, Fedora, Debian, and other major Linux
+<p align="center"><b>This is the snap for SQLite3</b>, <i>"SQLite is an in-process library that implements a self-contained, serverless, zero-configuration, transactional SQL database engine"</i>. It works on Ubuntu, Fedora, Debian, and other major Linux
 distributions.</p>
 
 <!-- Uncomment and modify this when you are provided a build status badge
@@ -16,7 +16,7 @@ distributions.</p>
 ## Install
 
     sudo apt install snapd-xdg-open
-    sudo snap install my-snap-name
+    sudo snap install sqlite3 --devmode
 
 ([Don't have snapd installed?](https://snapcraft.io/docs/core/install))
 
@@ -34,9 +34,9 @@ the [snapcraft.yaml](https://github.com/snapcrafters/fork-and-rename-me/blob/mas
 upstream so [Project] can authoritatively publish future releases.
 
   - [x] Fork the [Snapcrafters template](https://github.com/snapcrafters/fork-and-rename-me) repository to your own GitHub account
-  - [ ] Rename the forked Snapcrafters template repository
-  - [ ] Update logos and references to `[Project]` and `[my-snap-name]`
-  - [ ] Create a snap that runs in `devmode`
+  - [x] Rename the forked Snapcrafters template repository
+  - [x] Update logos and references to `[Project]` and `[my-snap-name]`
+  - [x] Create a snap that runs in `devmode`
   - [ ] Register the snap in the store, **using the preferred upstream name**
   - [ ] Add a screenshot to this `README.md`
   - [ ] Publish the `devmode` snap in the Snap store edge channel
