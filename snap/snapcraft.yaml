@@ -1,4 +1,4 @@
-name: sqlite3
+name: sqlite3-snap
 version: '3.20.0' 
 summary: Library implementing a self-contained, serverless, transactional database
 description: |
@@ -9,7 +9,7 @@ description: |
   Think of SQLite not as a replacement for Oracle but as a replacement for fopen()
 
 grade: devel 
-confinement: devmode 
+confinement: strict
 
 apps:
   sqlite3:
